@@ -61,9 +61,10 @@ A system monitoring tool that displays CPU, RAM, Disk, and Host information.
 - [x] Linux Monitoring Tool v1.1
 - [x] Backup Automation Tool
 - [x] SOC Log Analyzer
-- [X] Infrastructure Health Check
+- [X] Infrastructure Health Check v0.2.0
 
 ### In Progress
+- [ ] Infrastructure Health Check v0.3.0
 
 ### Planned
 - [ ] Dockerized Web App
