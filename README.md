@@ -76,10 +76,10 @@ A Python-based tool to check the components of device and every service running 
 - [x] Linux Monitoring Tool v1.1
 - [x] Backup Automation Tool
 - [x] SOC Log Analyzer
-- [X] Infrastructure Health Check v0.4.0
+- [X] Infrastructure Health Check v0.5.0
 
 ### In Progress
-- [ ] Infrastructure Health Check v0.5.0
+- [ ] Infrastructure Health Check v0.6.0
 
 ### Planned
 - [ ] Dockerized Web App
