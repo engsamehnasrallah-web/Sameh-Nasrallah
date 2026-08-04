@@ -51,6 +51,21 @@ A Python-based TCP Port Scanner with service detection and custom port scanning.
 ### 📊 Linux Monitoring Tool
 A system monitoring tool that displays CPU, RAM, Disk, and Host information.
 
+### 🔄️ Backup Automatic Tool
+A Python-based tool to perform an automatic backup point to the system.
+
+### 📁 File Operations Toolkit
+A C#-based tool to make some operations on files, moniter events on files, and get the system info.
+
+### 📃 Log Analyzer
+A Python-based tool to analyze Linux event's Logs and get the important conclusion of informations.
+
+### 📦 Product Management System
+A Webpage Application that can manage inventory or a Shop with all goods.
+
+### 🧑🏻‍⚕️ Infrastructure Health Checker
+A Python-based tool to check the components of device and every service running on the linux system.
+
 ---
 
 ## 📈 Current Roadmap
@@ -61,10 +76,10 @@ A system monitoring tool that displays CPU, RAM, Disk, and Host information.
 - [x] Linux Monitoring Tool v1.1
 - [x] Backup Automation Tool
 - [x] SOC Log Analyzer
-- [X] Infrastructure Health Check v0.2.0
+- [X] Infrastructure Health Check v0.4.0
 
 ### In Progress
-- [ ] Infrastructure Health Check v0.3.0
+- [ ] Infrastructure Health Check v0.5.0
 
 ### Planned
 - [ ] Dockerized Web App
