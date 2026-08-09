@@ -76,13 +76,13 @@ A Python-based tool to check the components of device and every service running 
 - [x] Linux Monitoring Tool v1.1
 - [x] Backup Automation Tool
 - [x] SOC Log Analyzer
-- [X] Infrastructure Health Check v0.5.0
+- [x] Infrastructure Health Check
+- [x] Infrastructure Health Check v1.0.0
 
 ### In Progress
-- [ ] Infrastructure Health Check v0.6.0
+- [ ] Dockerized Web App
 
 ### Planned
-- [ ] Dockerized Web App
 - [ ] CI/CD Pipeline
 - [ ] Wazuh SIEM Lab
 - [ ] Home Lab Documentation
