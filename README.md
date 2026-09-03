@@ -80,9 +80,11 @@ A Python-based tool to check the components of device and every service running 
 - [x] Infrastructure Health Check v1.0.0
 
 ### In Progress
-- [ ] Dockerized Web App
+- [ ] Full Download Manager
+- [ ] Multi-LAN-Routed-Network 
 
 ### Planned
+- [ ] Dockerized Web App
 - [ ] CI/CD Pipeline
 - [ ] Wazuh SIEM Lab
 - [ ] Home Lab Documentation
